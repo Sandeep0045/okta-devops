@@ -1,5 +1,5 @@
 variable "okta_api_token" {
-  default = 000uJkL29SALbf44bW3_sgngtQFb7cqFu4cnXmHgFb
+  default = "00oMlve0OF5Y7Xzul1lcsi7p-GbrtltnFspwrin34a"
 }
 ### User ###
 variable "okta_user_first_name"{
